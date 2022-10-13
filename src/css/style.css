@@ -1,5 +1,5 @@
 body{
-    background: url(/src/images/fundo-site.jpg) no-repeat center/cover;
+    background: url(/src/images/boonfire.gif) no-repeat center/cover;
     font-family: 'VT323', monospace;
     color: #fff;
     font-size: 18px;
@@ -14,7 +14,7 @@ body{
     background-color: #070d12;
     border-radius: 10px;
     width: 370px;
-    border: 2px solid #e126d9;
+    border: 2px solid #27b4fb;
     overflow: hidden;
 }
 
@@ -29,7 +29,7 @@ body{
 .cartao .minhas-informacoes img{
     width: 100px;
     border-radius: 50px;
-    border: 4px solid #02d08f;
+    border: 4px solid #71fdff;
 }
 
 .cartao .minhas-informacoes .nome{
