@@ -5,6 +5,7 @@ body{
     font-size: 18px;
     min-height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     padding: 30px;
@@ -12,8 +13,8 @@ body{
 
 .cartao{
     background-color: #070d12;
-    border-radius: 10px;
-    width: 370px;
+    border-radius: 15px;
+    width: 400px;
     border: 2px solid #27b4fb;
     overflow: hidden;
 }
@@ -91,7 +92,7 @@ body{
 }
 
 .cartao .informacoes-abas .descricao{
-    font-size: 20px;
+    font-size: 22px;
     max-height: 200px;
     overflow-y: auto;
     padding-right: 15px;
@@ -116,7 +117,7 @@ body{
     color: #f3f3f3;
     text-align: center;
     padding: 10px;
-    font-size: 20px;
+    font-size: 22px;
     transition: 0.2s ease-in-out;
 }
 
@@ -134,6 +135,12 @@ body{
 
 .redes-sociais .github{
     background-color: #545454;
+}
+
+audio{
+    opacity: 0.6;
+    width: 150px;
+    margin-top: 10px;
 }
 
 
