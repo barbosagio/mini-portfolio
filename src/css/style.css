@@ -1,6 +1,5 @@
 body{
-    background: url(/src/images/boonfire.gif) no-repeat center;
-    background-size: cover;
+    background: url(/src/images/boonfire.gif) no-repeat center / cover;
     font-family: 'VT323', monospace;
     color: #fff;
     font-size: 18px;
