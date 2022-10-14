@@ -1,3 +1,9 @@
+@media (max-width: 425px){
+    .cartao{
+        width: 350px;
+    }
+}
+
 @media (max-width: 375px){
     .cartao{
         width: 300px;
